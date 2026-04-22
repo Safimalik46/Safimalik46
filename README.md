@@ -1,97 +1,67 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hey%20I'm%20Safiullah&fontSize=40&fontAlignY=35&desc=Computer%20Science%20Student%20|%20Ethical%20Hacker%20|%20Creator&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hey%20I'm%20Safiullah&fontSize=40&fontAlignY=35&desc=Computer%20Science%20Student%20|%20Cybersecurity%20Enthusiast&descAlignY=55"/>
 </p>
 
 ---
 
 ## 👋 About Me
 
-🎓 **BSCS Student at KICSIT**  
-💻 **Ethical Hacker | Secure Coder | Tech Explorer**  
-🔐 Passionate about **Cybersecurity, Networks & Secure Systems**  
-📚 Completed **Networks, Defensive Security & PenTesting Basics** on **TryHackMe**  
-🚀 I love building **real-world systems** and breaking them (ethically 😄)
+🎓 BSCS Student at KICSIT  
+🔐 Cybersecurity Enthusiast | Ethical Hacker | Secure Coder  
+💻 Passionate about SOC systems, penetration testing & network security  
+🚀 I love building real-world security tools and learning attack-defense techniques  
+
+---
+
+## 🛡️ Cybersecurity Focus
+
+- SOC (Security Operations Center) basics  
+- Ethical hacking & penetration testing  
+- Network security & OSINT  
+- Secure software development  
+- Malware & attack detection systems  
+
+---
+
+## 🚀 Featured Project
+
+### 🛡️ Mini SOC System (C# + Docker)
+A console-based cybersecurity system with:
+- SHA-256 password hashing  
+- Brute-force attack detection  
+- Security logging & audit trail  
+- Log analysis system  
+- Docker container support  
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🧠 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+C#, C++, Python, SQL, HTML, CSS, JavaScript, PHP  
 
 ---
 
-### 🧩 Frameworks & Libraries
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge)
+## 🧰 Cyber Tools
 
----
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
----
-
-### 🛠️ Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
-![Maltego](https://img.shields.io/badge/Maltego-2C2C2C?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 🚀 Projects Dashboard
-
-| 🚧 Project | 📄 Description | 🧰 Tech |
-|-----------|---------------|--------|
-| 🚗 **AutoShop** | Car modification system (Owner & Customer Modules) | C++ |
-| 💬 **TCP Chatroom** | Server-client chat with FTP file sharing | Python |
-| 📚 **Library Management System** | Book, student & record management | C++ |
-| 🛠️ **BMW Mod System** | Admin dashboard-based web app | Django + MySQL + MongoDB |
+Wireshark | Maltego | Nmap | OSINT Tools | Microsoft Defender | SOC Dashboards | System Security Analysis Tools  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.instagram.com/root_$F">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/safi-ullah-058545247">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+Instagram | LinkedIn | GitHub  
 
 ---
 
 <p align="center">
-  ⭐ <strong>Code. Hack. Learn. Repeat.</strong> ⭐
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  ⭐ Code. Secure. Hack. Learn. Repeat. ⭐
 </p>
