@@ -8,7 +8,7 @@
 ## 👋 About Me
 
 🎓 **BSCS Student at KICSIT**  
-💻 **Ethical Hacker | Secure Coder | Tech Explorer**  
+💻 **CPPS |Ethical Hacker | Secure Coder | Tech Explorer **  
 🔐 Passionate about **Cybersecurity, Networks & Secure Systems**  
 📚 Completed **Networks, Defensive Security & PenTesting Basics** on **TryHackMe**  
 🚀 I love building **real-world systems** and breaking them (ethically 😄)
@@ -25,6 +25,9 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
 
 ---
 
@@ -38,12 +41,18 @@
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ---
 
 ### 🛠️ Tools
+![CPPS](https://img.shields.io/badge/CPPS-Certified%20Phishing%20Prevention%20Specialist-1E90FF?style=for-the-badge&logo=protonmail&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-2C2C2C?style=for-the-badge&logo=target&logoColor=white)
+![SOC](https://img.shields.io/badge/SOC-Security%20Operations%20Center-FF0000?style=for-the-badge&logo=verizon&logoColor=white)
 ![Maltego](https://img.shields.io/badge/Maltego-2C2C2C?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
