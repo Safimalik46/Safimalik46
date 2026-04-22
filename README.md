@@ -58,7 +58,8 @@
 | 💬 **TCP Chatroom** | Server-client chat with FTP file sharing | Python |
 | 📚 **Library Management System** | Book, student & record management | C++ |
 | 🛠️ **BMW Mod System** | Admin dashboard-based web app | Django + MySQL + MongoDB |
-
+| 📱 **Mobile Security** | Antivirus based Android app | Android + Firebase + Python |
+| 🛡️ **Mini SOC ** | Logs & Security Console app | C# + .net8 + docker |
 ---
 
 ## 📊 GitHub Stats
