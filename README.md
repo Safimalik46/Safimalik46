@@ -8,16 +8,16 @@
 ## 👋 About Me
 
 🎓 **BSCS Student at KICSIT**  
-💻 **CPPS |Ethical Hacker | Secure Coder | Tech Explorer **  
+💻 CPPS |Ethical Hacker | Secure Coder | Tech Explorer 
 🔐 Passionate about **Cybersecurity, Networks & Secure Systems**  
 📚 Completed **Networks, Defensive Security & PenTesting Basics** on **TryHackMe**  
-🚀 I love building **real-world systems** and breaking them (ethically 😄)
+🚀 I love building **real-world systems** and breaking them (ethically)
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
-### 🧠 Languages
+###  Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql)
@@ -31,14 +31,14 @@
 
 ---
 
-### 🧩 Frameworks & Libraries
+###  Frameworks & Libraries
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge)
 
 ---
 
-### 🗄️ Databases
+###  Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -46,7 +46,7 @@
 
 ---
 
-### 🛠️ Tools
+###  Tools
 ![CPPS](https://img.shields.io/badge/CPPS-Certified%20Phishing%20Prevention%20Specialist-1E90FF?style=for-the-badge&logo=protonmail&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
 ![OSINT](https://img.shields.io/badge/OSINT-2C2C2C?style=for-the-badge&logo=target&logoColor=white)
@@ -59,19 +59,19 @@
 
 ---
 
-## 🚀 Projects Dashboard
+##  Projects Dashboard
 
-| 🚧 Project | 📄 Description | 🧰 Tech |
+|  Project |  Description |  Tech |
 |-----------|---------------|--------|
-| 🚗 **AutoShop** | Car modification system (Owner & Customer Modules) | C++ |
-| 💬 **TCP Chatroom** | Server-client chat with FTP file sharing | Python |
-| 📚 **Library Management System** | Book, student & record management | C++ |
-| 🛠️ **BMW Mod System** | Admin dashboard-based web app | Django + MySQL + MongoDB |
-| 📱 **Mobile Security** | Antivirus based Android app | Android + Firebase + Python |
-| 🛡️ **Mini SOC ** | Logs & Security Console app | C# + .net8 + docker |
+|  **AutoShop** | Car modification system (Owner & Customer Modules) | C++ |
+|  **TCP Chatroom** | Server-client chat with FTP file sharing | Python |
+|  **Library Management System** | Book, student & record management | C++ |
+|  **BMW Mod System** | Admin dashboard-based web app | Django + MySQL + MongoDB |
+|  **Mobile Security** | Antivirus based Android app | Android + Firebase + Python |
+|  **Mini SOC ** | Logs & Security Console app | C# + .net8 + docker |
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
@@ -84,7 +84,7 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.instagram.com/root_$F">
