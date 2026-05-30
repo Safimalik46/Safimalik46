@@ -69,18 +69,6 @@ I love building **real-world systems** and breaking them (ethically)
 |  **BMW Mod System** | Admin dashboard-based web app | Django + MySQL + MongoDB |
 |  **Mobile Security** | Antivirus based Android app | Android + Firebase + Python |
 |  **Mini SOC ** | Logs & Security Console app | C# + .net8 + docker |
----
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
