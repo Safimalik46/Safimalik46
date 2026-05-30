@@ -5,13 +5,13 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-🎓 **BSCS Student at KICSIT**  
-💻 CPPS |Ethical Hacker | Secure Coder | Tech Explorer 
-🔐 Passionate about **Cybersecurity, Networks & Secure Systems**  
-📚 Completed **Networks, Defensive Security & PenTesting Basics** on **TryHackMe**  
-🚀 I love building **real-world systems** and breaking them (ethically)
+**BSCS Student at KICSIT**  
+CPPS |Ethical Hacker | Secure Coder | Tech Explorer 
+Passionate about **Cybersecurity, Networks & Secure Systems**  
+Completed **Networks, Defensive Security & PenTesting Basics** on **TryHackMe**  
+I love building **real-world systems** and breaking them (ethically)
 
 ---
 
